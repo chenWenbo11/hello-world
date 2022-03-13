@@ -1,0 +1,3 @@
+﻿  StrVec.cpp
+StrVec.obj : error LNK2001: 无法解析的外部符号 "public: static class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > StrVec::alloc" (?alloc@StrVec@@2V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@std@@A)
+D:\Programming\Projects\CPlus\Test\Debug\Test.exe : fatal error LNK1120: 1 个无法解析的外部命令
